@@ -1,0 +1,33 @@
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\appsettings.json
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\Udemy Class.exe
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\Udemy Class.deps.json
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\Udemy Class.runtimeconfig.json
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\Udemy Class.dll
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\Udemy Class.pdb
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.csproj.AssemblyReference.cache
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.AssemblyInfoInputs.cache
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.AssemblyInfo.cs
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.csproj.CoreCompileInputs.cache
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.sourcelink.json
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\staticwebassets\msbuild.Udemy Class.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\staticwebassets\msbuild.build.Udemy Class.props
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Udemy Class.props
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Udemy Class.props
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\scopedcss\bundle\Udemy Class.styles.css
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.csproj.CopyComplete
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.dll
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\refint\Udemy Class.dll
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.pdb
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\Udemy Class.genruntimeconfig.cache
+C:\Users\RANJITH\Documents\GitHub\UdemyClass\Udemy Class\obj\Debug\net8.0\ref\Udemy Class.dll
